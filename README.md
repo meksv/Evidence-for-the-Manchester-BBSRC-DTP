@@ -1,5 +1,7 @@
-# Evidence-for-the-Manchester-BBSRC-DTP
+# Evidence-for-Oxford-BBSRC-DTP
 
-This GitHub link is tailored to the Personal Statement of the Manchester BBSRC DTP
+This branch is tailored to the final paragraph of my personal statment. 
 
-Please use the branches to naviagate to examples specific to sections of the personal statement.
+The 'Bioinformatics with BioPython' and 'Bioinformatics with Biotite' code examples are a part of my re-training in coding. Code was written by myself with guidance from a Udemy course and made unique by changing variables, code layout, graph formats and using different biological sequences for analysis. 
+
+The other examples are my bioinformatic internship and courseworks I completed during my degree.
